@@ -27,7 +27,7 @@
     'license': 'AGPL-3',
     'author': "Akretion,Camptocamp,Odoo Community Association (OCA)",
     'website': 'http://www.akretion.com/',
-    'depends': ['sale_stock','odoo-addon-spor-smart-warehousing'
+    'depends': ['sale_stock','smartwarehousing'
                 ],
     'data': ['sale_view.xml',
              'sale_workflow.xml',
